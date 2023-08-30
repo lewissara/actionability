@@ -1,2 +1,4 @@
 pandas
 biopython
+requests
+beautifulsoup4
