@@ -1,1 +1,2 @@
 #AC2 stats_9-11-23.xls contains 3 sheets; raw R output, analysis of aggregate data (ex. min, max, average, average weighted by # scorers), and linear regression analysis between variables to support aggregation between analyses
+#actionability_raw scores contains 4 sheets; severity, safety practicality, group 1 effiacy, group 2 efficacy. Note: efficacy was split with 2 differnt groups of scorers contributing. 
